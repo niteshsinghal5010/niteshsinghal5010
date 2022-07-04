@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nitesh Singhal. 
-- 👀 I’m working on Salesforce technolgy..
+- 👀 I’m working on Salesforce Technolgy..
 - 🌱 I’m currently learning Lightning Web Component and Digital Experience in Salesforce.
 - 📫 You can reach me via--
 -     * Gmail - niteshsinghal.it21@gmail.com
